@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Nicholas Weeks - CV
 
-I'm glad you are here. I plan to talk about ...
+CV for Nicholas Weeks. Including a portfolio and custom Cover Letters. 
+
