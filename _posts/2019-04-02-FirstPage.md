@@ -1,5 +1,5 @@
 ---
-Title: "Nicholas Weeks - CV"
+Title: "Nicholas Weeks CV"
 Date: 2019-04-02
 ---
 
